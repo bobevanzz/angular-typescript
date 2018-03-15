@@ -59,6 +59,7 @@
     "ts/calcarea.ts",
     "ts/aclass.ts",
     "ts/userclass.ts",
-    "ts/friendslist.ts"
+    "ts/friendslist.ts",
+    "ts/foobar.ts"
     ]
 }
